@@ -1,0 +1,33 @@
+.historyContainer {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 10px;
+}
+.time {
+  margin-right: 20px;
+}
+.logoImage {
+  margin: 10px;
+  width: 30px;
+  height: 30px;
+}
+.title {
+  margin-right: 10px;
+}
+.alignContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.listContainer {
+  list-style-type: none;
+}
+.delete {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-right: 10px;
+  background-color: transparent;
+  border: 0;
+}
